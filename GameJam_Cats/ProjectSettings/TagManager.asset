@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 574256493
+    locked: 0
+  - name: Yarn
+    uniqueID: 4060236323
+    locked: 0
+  - name: Cats
+    uniqueID: 3365561137
+    locked: 0
