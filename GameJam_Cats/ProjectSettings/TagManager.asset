@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cat
+  - Yarn
+  - Ground
+  - Platt
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - cat
   - 
   - 
   - 
@@ -49,4 +53,7 @@ TagManager:
     locked: 0
   - name: Cats
     uniqueID: 3365561137
+    locked: 0
+  - name: UI
+    uniqueID: 3067906471
     locked: 0

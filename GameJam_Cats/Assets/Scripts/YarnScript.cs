@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class YarnScript : MonoBehaviour
 {
+    LineRenderer line;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        line = GetComponent<LineRenderer>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        
+        if (other.gameObject.tag != "Cat") return;
+
+
     }
 }

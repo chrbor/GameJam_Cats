@@ -149,13 +149,13 @@ TextureImporter:
       tessellationDetail: 0
       bones:
       - name: neck
-        position: {x: 24.99823, y: 42.776245, z: 0}
-        rotation: {x: 0, y: 0, z: 0.30517748, w: 0.95229554}
-        length: 67.08165
+        position: {x: 45.909023, y: 58.766907, z: 0}
+        rotation: {x: 0, y: 0, z: 0.2951448, w: 0.95545256}
+        length: 40.780502
         parentId: -1
       - name: head
-        position: {x: 67.08165, y: -0.000043303495, z: 1}
-        rotation: {x: 0, y: 0, z: -0.3221261, w: 0.9466968}
+        position: {x: 40.780514, y: -0.00001961844, z: 1}
+        rotation: {x: 0, y: 0, z: -0.3121515, w: 0.9500324}
         length: 93.63669
         parentId: 0
       spriteID: 5eaed0ce36847ccf0800000000000000
@@ -540,32 +540,32 @@ TextureImporter:
       bones:
       - name: belly
         position: {x: 240.02869, y: 178.6222, z: 0}
-        rotation: {x: 0, y: 0, z: 0.022616968, w: 0.99974424}
+        rotation: {x: 0, y: 0, z: 0.022617621, w: 0.9997442}
         length: 270.9822
         parentId: -1
       - name: chest
-        position: {x: 270.9822, y: 0.00004766872, z: 1}
-        rotation: {x: 0, y: 0, z: 0.27772462, w: 0.9606608}
+        position: {x: 270.98224, y: -0.00031010408, z: 1}
+        rotation: {x: 0, y: 0, z: 0.27772403, w: 0.96066093}
         length: 138.44688
         parentId: 0
       - name: tail1
         position: {x: -39.4085, y: 16.280996, z: 1}
-        rotation: {x: 0, y: -0, z: -0.90506834, w: 0.42526624}
-        length: 62.830654
+        rotation: {x: 0, y: -0, z: -0.9050684, w: 0.42526615}
+        length: 62.830658
         parentId: 0
       - name: tail2
-        position: {x: 62.830654, y: -0.0000017595085, z: 2}
-        rotation: {x: 0, y: 0, z: -0.019340344, w: 0.99981296}
-        length: 63.3324
+        position: {x: 62.83066, y: 0.000008855922, z: 2}
+        rotation: {x: 0, y: 0, z: -0.019340346, w: 0.99981296}
+        length: 63.332382
         parentId: 2
       - name: tail3
-        position: {x: 63.332386, y: -0.000017802584, z: 3}
-        rotation: {x: 0, y: 0, z: -0.04981397, w: 0.99875855}
-        length: 63.018044
+        position: {x: 63.332375, y: -0.000004352399, z: 3}
+        rotation: {x: 0, y: 0, z: -0.049813367, w: 0.99875855}
+        length: 63.018047
         parentId: 3
       - name: tail4
-        position: {x: 63.01805, y: 0.000036580757, z: 4}
-        rotation: {x: 0, y: 0, z: -0.18687469, w: 0.98238385}
+        position: {x: 63.018063, y: -0.00002213248, z: 4}
+        rotation: {x: 0, y: 0, z: -0.18687509, w: 0.98238367}
         length: 64.362495
         parentId: 4
       spriteID: 8a9bc0f60aa198c10800000000000000
@@ -697,7 +697,7 @@ TextureImporter:
         boneIndex[1]: 2
         boneIndex[2]: 0
         boneIndex[3]: 0
-      - weight[0]: 0.5099021
+      - weight[0]: 0.50990206
         weight[1]: 0.49009794
         weight[2]: 0
         weight[3]: 0
@@ -706,7 +706,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.8721164
-        weight[1]: 0.12788357
+        weight[1]: 0.12788361
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -754,7 +754,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.8394278
-        weight[1]: 0.16057219
+        weight[1]: 0.16057217
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -833,7 +833,7 @@ TextureImporter:
         boneIndex[1]: 0
         boneIndex[2]: 0
         boneIndex[3]: 0
-      - weight[0]: 0.52006394
+      - weight[0]: 0.5200639
         weight[1]: 0.4799361
         weight[2]: 0
         weight[3]: 0
@@ -842,7 +842,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.80387264
-        weight[1]: 0.19612743
+        weight[1]: 0.19612736
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -874,7 +874,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.5097134
-        weight[1]: 0.49028653
+        weight[1]: 0.4902866
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1018,7 +1018,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.7703922
-        weight[1]: 0.22960784
+        weight[1]: 0.22960782
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1066,7 +1066,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.8192288
-        weight[1]: 0.18077122
+        weight[1]: 0.18077117
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1106,17 +1106,17 @@ TextureImporter:
       bones:
       - name: u_l
         position: {x: 76.50821, y: 168.99557, z: 0}
-        rotation: {x: 0, y: 0, z: -0.7943895, w: 0.60740876}
+        rotation: {x: 0, y: 0, z: -0.7943895, w: 0.6074087}
         length: 93.504036
         parentId: -1
       - name: l_l
-        position: {x: 93.50403, y: -0.000010146625, z: 1}
+        position: {x: 93.50402, y: -0.000010223355, z: 1}
         rotation: {x: 0, y: 0, z: 0.3977143, w: 0.9175093}
-        length: 61.523346
+        length: 61.523342
         parentId: 0
       - name: paw
-        position: {x: 61.523342, y: -0.0000159267, z: 2}
-        rotation: {x: 0, y: 0, z: 0.43958142, w: 0.8982028}
+        position: {x: 61.52335, y: -0.0000022075492, z: 2}
+        rotation: {x: 0, y: 0, z: 0.43958154, w: 0.8982028}
         length: 41.458607
         parentId: 1
       spriteID: 354a4cc2ab35ab310800000000000000
@@ -1264,7 +1264,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.77881724
-        weight[1]: 0.22118275
+        weight[1]: 0.22118276
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1524,13 +1524,13 @@ TextureImporter:
         length: 77.261406
         parentId: -1
       - name: l_l
-        position: {x: 77.26139, y: 0.000012483586, z: 1}
-        rotation: {x: 0, y: 0, z: 0.0718761, w: 0.9974136}
+        position: {x: 77.26139, y: 0.000011172284, z: 1}
+        rotation: {x: 0, y: 0, z: 0.07187652, w: 0.9974136}
         length: 68.897835
         parentId: 0
       - name: paw
-        position: {x: 68.89783, y: 0.000012824968, z: 2}
-        rotation: {x: 0, y: 0, z: 0.552541, w: 0.8334858}
+        position: {x: 68.89783, y: -0.0000421183, z: 2}
+        rotation: {x: 0, y: 0, z: 0.55254066, w: 0.833486}
         length: 36.080856
         parentId: 1
       spriteID: 793a6ce6e451fbbd0800000000000000
@@ -1665,7 +1665,7 @@ TextureImporter:
         boneIndex[2]: 2
         boneIndex[3]: 0
       - weight[0]: 0.5535241
-        weight[1]: 0.44647595
+        weight[1]: 0.44647592
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
@@ -1673,7 +1673,7 @@ TextureImporter:
         boneIndex[2]: 0
         boneIndex[3]: 0
       - weight[0]: 0.88807046
-        weight[1]: 0.1119295
+        weight[1]: 0.111929536
         weight[2]: 0
         weight[3]: 0
         boneIndex[0]: 0
